@@ -162,9 +162,9 @@
 ## 7. סיכונים, אתיקה ורגולציה
 
 ### ⭐ מבט על
-- **Refoua, Gigi, Levkovich, Hadar Shoval, Elyoseph, Tsafrir, Pen, Angert & Haber (2026).** *Generative AI as a de facto mental health provider: a policy brief and urgent call for regulation.* Frontiers in Digital Health, 8:1708806. https://doi.org/10.3389/fdgth.2026.1708806
+- **⭐ Refoua, Gigi, Levkovich, Hadar Shoval, Elyoseph, Tsafrir, Pen, Angert & Haber (2026).** *Generative AI as a de facto mental health provider: a policy brief and urgent call for regulation.* Frontiers in Digital Health, 8:1708806. https://doi.org/10.3389/fdgth.2026.1708806
   - **ממצא:** סינתזה של הראיות על שימוש הציבור ב-GenAI כללי לתמיכה נפשית, עם המלצות למשתמשים, לקלינאים, למפתחים ולרגולטורים. הסיכונים: הזיות, פרטיות, הטיה, תלות רגשית ופגיעה באוטונומיה.
-  - **הערה למנחים:** ברשימת המחברים מופיע "Tsafrir I". מומלץ לאמת שזה יפתח, ואם כן, זה בסיס טבעי להצגה משותפת.
+  - **הערה למנחים:** מאמר משותף ליפתח צפריר ופרופ' זוהר אליוסף - בסיס טבעי להצגה משותפת.
 - **Elyoseph, Gur, Haber, Simon, Angert, Navon, Tal & Asman (2024).** *An Ethical Perspective on the Democratization of Mental Health With Generative AI.* JMIR Mental Health, 11:e58011. https://doi.org/10.2196/58011
   - **ממצא:** מסגרת אתית ל"דמוקרטיזציה" של ידע ותמיכה נפשית באמצעות GenAI, בין הנגשה לבין סיכון.
 
